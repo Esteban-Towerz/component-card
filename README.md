@@ -1,3 +1,9 @@
+### React Reusable Components
+
+Component Nesting, React’s Props System Implementing an Approval Card.
+
+![react-reusable-components](https://user-images.githubusercontent.com/25851867/51002001-ec964d80-14ff-11e9-96aa-9c9ba9554ccd.gif)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
